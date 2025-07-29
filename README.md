@@ -1,9 +1,5 @@
-# 💻 Mohammed Masthan Vali
-
-👋 Hi there! I'm Masthan, a **MERN Stack Developer** with over 3 years of professional experience, specializing in building scalable web applications using **React**, **Node.js**, and **SharePoint Framework (SPFx)**.
-
 # 💫 About Me:
-👋 Hi there! I'm Masthan, a MERN Stack Developer with over 3 years of professional experience, specializing in building scalable web applications using React, Node.js, and SharePoint Framework (SPFx).
+👋 Hi there! I'm Mohammed Masthan Vali, a MERN Stack Developer with over 3 years of professional experience, specializing in building scalable web applications using React, Node.js, and SharePoint Framework (SPFx).
 
 
 ## 🌐 Socials:
