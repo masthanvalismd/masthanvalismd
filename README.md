@@ -84,27 +84,18 @@
 
 <div align="center">
 
-![Masthan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=masthanvalismd&show_icons=true&theme=radical&border_radius=10&hide_title=true)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=masthanvalismd&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=masthanvalismd&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=masthanvalismd&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masthanvalismd&layout=compact&theme=radical&border_radius=10)
+---
+[![](https://visitcount.itsvg.in/api?id=masthanvalismd&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=masthanvalismd&theme=radical&border_radius=10)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
 
----
-
-## 🌐 Contribution Graph & 3D Calendar
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=masthanvalismd&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-3d-contribution/blob/main/profile-night-rainbow.svg" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
