@@ -44,9 +44,9 @@
   <img title="Express.js" src="https://skillicons.dev/icons?i=express" height="50" style="transform: perspective(500px) rotateY(5deg); box-shadow: 0 4px 12px rgba(0,0,0,0.3); border-radius: 12px;" />
   <img title="MongoDB" src="https://skillicons.dev/icons?i=mongodb" height="50" style="transform: perspective(500px) rotateY(5deg); box-shadow: 0 4px 12px rgba(0,0,0,0.3); border-radius: 12px;" />
 </br>
-    <img src="https://img.shields.io/badge/REST_API-JSON-blueviolet?style=for-the-badge" title="REST API" />
-  <img src="https://img.shields.io/badge/Mongoose-ODM%20for%20MongoDB-green?style=for-the-badge" title="Mongoose" />
-  <img src="https://img.shields.io/badge/JSON-Data-lightgrey?style=for-the-badge" title="JSON" />
+    <img src="https://img.shields.io/badge/REST_API-blueviolet?style=for-the-badge" title="REST API" />
+  <img src="https://img.shields.io/badge/Mongoose-green?style=for-the-badge" title="Mongoose" />
+  <img src="https://img.shields.io/badge/JSON-lightgrey?style=for-the-badge" title="JSON" />
 
 </div>
 
