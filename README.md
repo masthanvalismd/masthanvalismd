@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/MERN%20Stack-Developer-blueviolet?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/3+_Years-Experience-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Open-To-Opportunities-yellow?style=for-the-badge&logo=handshake" />
 </p>
 
 ---
