@@ -1,19 +1,27 @@
-<h1 align="center">Hi there, I'm Mohammed Masthan Vali 👋</h1>
+<h1 align="center">Hi 👋, I'm Mohammed Masthan Vali</h1>
+<h3 align="center">Frontend Developer | React.js | UI Engineering</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MERN%20Stack-Developer-blueviolet?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/3+_Years-Experience-brightgreen?style=for-the-badge&logo=github" />
+I build modern, responsive, and high-performance user interfaces using React and the modern JavaScript ecosystem.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-Developer-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/UI%20Engineering-Scalable-success?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-🎯 Passionate **MERN Stack Developer** with 3+ years of experience in **React**, **Node.js**, and **SharePoint SPFx**.
+I’m a **Frontend Developer with 3+ years of experience** building real-world, user-facing web applications focused on performance, usability, and clean UI architecture.
 
-💼 Built internal business apps at Infosys, led a team of 3–4 developers, and received ⭐ **5/5 rating** and a 🏅 **Certificate of Appreciation (Insta Awards)**.
+I specialize in **React.js, JavaScript, HTML, and CSS**, building **scalable client-side applications** such as dashboards, portals, and interactive platforms that consume REST APIs and manage complex UI states.
 
-🧠 Currently focusing on mastering **DSA**, **System Design**.
+I’ve worked on **multiple client-facing frontend projects** where I designed UI layouts, built reusable React components, integrated APIs, and delivered responsive experiences.
+
+Alongside client projects, I also contributed to **large enterprise applications at Infosys**, building **React + SharePoint (SPFx) frontends** for business users. One of these applications received a **5/5 rating** and earned me a **Certificate of Appreciation (Insta Award)**.
 
 ---
 
@@ -21,61 +29,24 @@
 
 <div align="center">
 
-### 🌐 Client-side
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img title="JavaScript" src="https://skillicons.dev/icons?i=js" height="50" style="transform: perspective(500px) rotateY(5deg); box-shadow: 0 4px 12px rgba(0,0,0,0.3); border-radius: 12px;" />
-  <img title="ReactJS" src="https://skillicons.dev/icons?i=react" height="50" style="transform: perspective(500px) rotateY(5deg); box-shadow: 0 4px 12px rgba(0,0,0,0.3); border-radius: 12px;" />
-  <img title="HTML5" src="https://skillicons.dev/icons?i=html" height="50" style="transform: perspective(500px) rotateY(5deg); box-shadow: 0 4px 12px rgba(0,0,0,0.3); border-radius: 12px;" />
-  <img title="CSS3" src="https://skillicons.dev/icons?i=css" height="50" style="transform: perspective(500px) rotateY(5deg); box-shadow: 0 4px 12px rgba(0,0,0,0.3); border-radius: 12px;" />
-</br>
-    <img src="https://img.shields.io/badge/Context_API-React-blue?style=for-the-badge" title="Context API" />
-  <img src="https://img.shields.io/badge/DOM-Manipulation-orange?style=for-the-badge" title="DOM" />
-</div>
-
-
----
-
-### 🖥️ Server-side
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img title="Node.js" src="https://skillicons.dev/icons?i=nodejs" height="50" style="transform: perspective(500px) rotateY(5deg); box-shadow: 0 4px 12px rgba(0,0,0,0.3); border-radius: 12px;" />
-  <img title="Express.js" src="https://skillicons.dev/icons?i=express" height="50" style="transform: perspective(500px) rotateY(5deg); box-shadow: 0 4px 12px rgba(0,0,0,0.3); border-radius: 12px;" />
-  <img title="MongoDB" src="https://skillicons.dev/icons?i=mongodb" height="50" style="transform: perspective(500px) rotateY(5deg); box-shadow: 0 4px 12px rgba(0,0,0,0.3); border-radius: 12px;" />
-</br>
-    <img src="https://img.shields.io/badge/REST_API-blueviolet?style=for-the-badge" title="REST API" />
-  <img src="https://img.shields.io/badge/Mongoose-green?style=for-the-badge" title="Mongoose" />
-  <img src="https://img.shields.io/badge/JSON-lightgrey?style=for-the-badge" title="JSON" />
+<img title="React" src="https://skillicons.dev/icons?i=react" height="55" style="box-shadow:0 10px 20px rgba(0,0,0,.3); border-radius:12px; transform:perspective(500px) rotateY(6deg);" />
+<img title="JavaScript" src="https://skillicons.dev/icons?i=js" height="55" style="box-shadow:0 10px 20px rgba(0,0,0,.3); border-radius:12px; transform:perspective(500px) rotateY(6deg);" />
+<img title="HTML5" src="https://skillicons.dev/icons?i=html" height="55" style="box-shadow:0 10px 20px rgba(0,0,0,.3); border-radius:12px; transform:perspective(500px) rotateY(6deg);" />
+<img title="CSS3" src="https://skillicons.dev/icons?i=css" height="55" style="box-shadow:0 10px 20px rgba(0,0,0,.3); border-radius:12px; transform:perspective(500px) rotateY(6deg);" />
+<img title="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap" height="55" style="box-shadow:0 10px 20px rgba(0,0,0,.3); border-radius:12px; transform:perspective(500px) rotateY(6deg);" />
+<img title="Git" src="https://skillicons.dev/icons?i=git" height="55" style="box-shadow:0 10px 20px rgba(0,0,0,.3); border-radius:12px; transform:perspective(500px) rotateY(6deg);" />
+<img title="Postman" src="https://skillicons.dev/icons?i=postman" height="55" style="box-shadow:0 10px 20px rgba(0,0,0,.3); border-radius:12px; transform:perspective(500px) rotateY(6deg);" />
+<img title="VS Code" src="https://skillicons.dev/icons?i=vscode" height="55" style="box-shadow:0 10px 20px rgba(0,0,0,.3); border-radius:12px; transform:perspective(500px) rotateY(6deg);" />
 
 </div>
 
----
-
-### 📚 Libraries & Frameworks
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img title="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap" height="50" style="transform: perspective(500px) rotateY(5deg); box-shadow: 0 4px 12px rgba(0,0,0,0.3); border-radius: 12px;" />
-  <img title="Material UI" src="https://img.shields.io/badge/Material--UI-007FFF?style=flat&logo=mui&logoColor=white" height="28" />
-  <img title="Fluent UI" src="https://img.shields.io/badge/Fluent%20UI-217346?style=flat&logo=microsoft&logoColor=white" height="28" />
-  <img title="PrimeReact" src="https://img.shields.io/badge/PrimeReact-81C784?style=flat&logo=data:image/svg+xml;base64,&logoColor=white" height="28" />
-  <img title="SharePoint SPFx" src="https://img.shields.io/badge/SPFx-0078D4?style=flat&logo=sharepoint&logoColor=white" height="28" />
-  <img title="Axios" src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white" height="28" />
-</div>
-
----
-
-### 🧰 Tools
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img title="VS Code" src="https://skillicons.dev/icons?i=vscode" height="50" style="transform: perspective(500px) rotateY(5deg); box-shadow: 0 4px 12px rgba(0,0,0,0.3); border-radius: 12px;" />
-  <img title="Git" src="https://skillicons.dev/icons?i=git" height="50" style="transform: perspective(500px) rotateY(5deg); box-shadow: 0 4px 12px rgba(0,0,0,0.3); border-radius: 12px;" />
-  <img title="npm" src="https://skillicons.dev/icons?i=npm" height="50" style="transform: perspective(500px) rotateY(5deg); box-shadow: 0 4px 12px rgba(0,0,0,0.3); border-radius: 12px;" />
-  <img title="Postman" src="https://skillicons.dev/icons?i=postman" height="50" style="transform: perspective(500px) rotateY(5deg); box-shadow: 0 4px 12px rgba(0,0,0,0.3); border-radius: 12px;" />
-  <img title="MongoDB Compass" src="https://img.shields.io/badge/MongoDB%20Compass-47A248?style=flat&logo=mongodb&logoColor=white" height="28" />
-</div>
+<p>
+Context API • DOM • REST API • JSON • SPFx • Fluent UI • PrimeReact • Axios
+</p>
 
 </div>
-
 
 ---
 
@@ -83,27 +54,39 @@
 
 <div align="center">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=masthanvalismd&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=masthanvalismd&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=masthanvalismd&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Masthan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=masthanvalismd&show_icons=true&theme=radical&border_radius=12)
 
----
-[![](https://visitcount.itsvg.in/api?id=masthanvalismd&icon=0&color=0)](https://visitcount.itsvg.in)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masthanvalismd&layout=compact&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=masthanvalismd&theme=radical&border_radius=12)
 
 </div>
 
+---
 
-## 📫 Connect With Me
+## 🗺️ Contribution Graph
 
 <p align="center">
-  <a href="mailto:masthanvalismd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mohammed-masthan-vali-a99385215"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/masthanvalismd"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=masthanvalismd&theme=react-dark" />
 </p>
 
 ---
 
-<p align="center"><i>Thanks for visiting! Let’s build something impactful together 🚀</i></p>
+## 🏆 Achievements
+
+- ⭐ 5/5 rating for a React + SPFx manager dashboard  
+- 🏅 Infosys Insta Award (Certificate of Appreciation)  
+- 👥 Led a frontend team of 3–4 developers  
+- 🚀 Built multiple real-world, production UI modules  
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/masthanvalismd"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+  <a href="https://www.linkedin.com/in/mohammed-masthan-vali-a99385215"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.instagram.com/masthanvalismd"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"></a>
+</p>
+
+<p align="center"><i>Building clean, fast and scalable user interfaces 🚀</i></p>
