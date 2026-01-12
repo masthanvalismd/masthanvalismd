@@ -1,5 +1,14 @@
+<h1 align="center">Hi 👋, I'm Mohammed Masthan Vali</h1>
+<h3 align="center">Frontend Developer | React.js | UI Engineering</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=27,12,20,24,14&section=header&text=Mohammed%20Masthan%20Vali&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20UI%20Engineering&descAlignY=60&animation=twinkling" />
+I build modern, responsive, and high-performance user interfaces using React and the modern JavaScript ecosystem.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-Developer-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/UI%20Engineering-Scalable-success?style=for-the-badge" />
 </p>
 
 ---
