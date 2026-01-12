@@ -61,10 +61,11 @@ Alongside client projects, I also contributed to **large enterprise applications
 ## 📊 GitHub Stats
 
 <div align="center">
+## 📊 GitHub Stats
 
-![Masthan's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=masthanvalismd&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=masthanvalismd&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/masthanvalismd/masthanvalismd/main/metrics.svg" />
+</p>
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=masthanvalismd&theme=radical&border_radius=12)
