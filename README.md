@@ -15,11 +15,11 @@ I build modern, responsive, and high-performance user interfaces using React and
 
 ## 🧑‍💻 About Me
 
-I’m a **Frontend Developer with 3+ years of experience** building real-world, user-facing web applications focused on performance, usability, and clean UI architecture.
+I’m a **Frontend Developer with 3.9+ years of experience** building real-world, user-facing web applications focused on performance, usability, and clean UI architecture.
 
 I specialize in **React.js, JavaScript, HTML, and CSS**, building **scalable client-side applications** such as dashboards, portals, and interactive platforms that consume REST APIs and manage complex UI states.
 
-I’ve worked on **multiple client-facing frontend projects** where I designed UI layouts, built reusable React components, integrated APIs, and delivered responsive experiences.
+I’ve worked on **client-facing frontend projects** where I designed UI layouts, built reusable React components, integrated APIs, and delivered responsive experiences.
 
 Alongside client projects, I also contributed to **large enterprise applications at Infosys**, building **React + SharePoint (SPFx) frontends** for business users. One of these applications received a **5/5 rating** and earned me a **Certificate of Appreciation (Insta Award)**.
 
@@ -62,9 +62,10 @@ Alongside client projects, I also contributed to **large enterprise applications
 
 <div align="center">
 
-![Masthan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=masthanvalismd&show_icons=true&theme=radical&border_radius=12)
+![Masthan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=masthanvalismd&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masthanvalismd&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masthanvalismd&layout=compact&langs_count=8&theme=radical)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=masthanvalismd&theme=radical&border_radius=12)
 
@@ -72,22 +73,6 @@ Alongside client projects, I also contributed to **large enterprise applications
 
 ---
 
-## 🐍 My GitHub Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/masthanvalismd/masthanvalismd/output/github-contribution-grid-snake.svg" />
-</p>
-
-
----
-
-## 🏙️ 3D Contribution Skyline
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/masthanvalismd/masthanvalismd/output/profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
-
----
 
 ## 🏆 Achievements
 
