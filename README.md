@@ -58,22 +58,6 @@ Alongside client projects, I also contributed to **large enterprise applications
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/masthanvalismd/masthanvalismd/main/metrics.svg" />
-</p>
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=masthanvalismd&theme=radical&border_radius=12)
-
-</div>
-
----
-
 
 ## 🏆 Achievements
 
