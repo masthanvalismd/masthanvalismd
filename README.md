@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Mohammed%20Masthan%20Vali&fontSize=40&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20%7C%20UI%20Engineering&descAlignY=55&animation=fadeIn" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Mohammed Masthan Vali</h1>
 <h3 align="center">Frontend Developer | React.js | UI Engineering</h3>
 
@@ -78,6 +82,14 @@ Alongside client projects, I also contributed to **large enterprise applications
   <img src="https://raw.githubusercontent.com/masthanvalismd/masthanvalismd/output/github-contribution-grid-snake.svg" />
 </p>
 
+
+---
+
+## 🏙️ 3D Contribution Skyline
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/masthanvalismd/masthanvalismd/output/profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
 
 ---
 
