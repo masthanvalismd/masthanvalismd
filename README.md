@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=260&color=gradient&customColorList=12,20,14,27,24&section=header&text=Mohammed%20Masthan%20Vali&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20UI%20Engineering&descAlignY=55&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=27,12,20,24,14&section=header&text=Mohammed%20Masthan%20Vali&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20UI%20Engineering&descAlignY=60&animation=twinkling" />
 </p>
-
 
 ---
 
