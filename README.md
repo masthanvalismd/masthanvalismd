@@ -62,9 +62,9 @@ Alongside client projects, I also contributed to **large enterprise applications
 
 <div align="center">
 
-![Masthan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=masthanvalismd&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical)
+![Masthan's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=masthanvalismd&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masthanvalismd&layout=compact&langs_count=8&theme=radical)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=masthanvalismd&layout=compact&theme=radical)
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=masthanvalismd&theme=radical&border_radius=12)
