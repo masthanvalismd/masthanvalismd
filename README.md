@@ -29,12 +29,12 @@ Alongside client projects, I also contributed to **large enterprise applications
 
 ### 💻 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,typescript,redux" />
 </p>
 
 ### 🧩 UI Libraries & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=materialui" />
+  <img src="https://skillicons.dev/icons?i=materialui,bootstrap" />
   <img src="https://img.shields.io/badge/Fluent%20UI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/PrimeReact-4CAF50?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SPFx-0078D4?style=for-the-badge&logo=sharepoint"/>
@@ -52,7 +52,6 @@ Alongside client projects, I also contributed to **large enterprise applications
 ### 🧰 Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,npm,postman" />
-  <img src="https://img.shields.io/badge/MongoDB%20Compass-47A248?style=for-the-badge&logo=mongodb"/>
 </p>
 
 
